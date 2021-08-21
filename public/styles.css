@@ -1,0 +1,51 @@
+.heading {
+    background-color:#585858;
+    padding: 60px;
+  }
+.title-font {
+    position: relative;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 50px;
+    color: white;
+  }
+.buttons {
+    height: 60px;
+    width: 200px;
+    background-color: #b9bfc6;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-family: "Trebuchet MS";
+    border-radius: 5px;
+  }
+.questions {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.subtitle {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold
+}
+.delete-button {
+  height: 20px;
+  width: 50px;
+  background-color: #ee8585;
+  border: 0;
+  color: white;
+  font-size: 12px;
+  font-family: "Trebuchet MS";
+  border-radius: 5px;
+}
+
+.sign-out {
+  font-family: "Trebuchet MS";
+  font-size: 16px;
+  position: absolute;
+  bottom: 100px;
+}
+
+.errors {
+  font-family: "Trebuchet MS";
+  font-size: 16px;
+  color: rgb(255, 107, 107)
+}
