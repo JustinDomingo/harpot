@@ -6,7 +6,11 @@ register for an account. The user registration is authenticated and validated th
 feature that allows you to post comments which get saved into a database.
 
 #Features
+
 -Simple and easy JavaScript
+
 -Node and Express authentication
+
 -Post comments
+
 -Submit score to leaderboard
