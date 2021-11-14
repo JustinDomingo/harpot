@@ -14,3 +14,11 @@ feature that allows you to post comments which get saved into a database.
 -Post comments
 
 -Submit score to leaderboard
+
+## Technologies Used
+- #### Vanilla JavaScript
+- #### Express
+- #### Node
+- #### MongoDB
+- #### CSS
+- #### Sessions/Cookies
